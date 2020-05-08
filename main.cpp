@@ -9,8 +9,13 @@ int main()
 
     cout << "Insira seu sexo: (F ou M)" << endl;
     cin>>d;
-    if(d = "F"|| d = "f"){
-        cout<<"a";
-    }
+    cout << "Insira a quantidade de cervejas consumidas: " << endl;
+    cin>>a;
+    cout << "Insira a quantidade de refrigerantes consumidos: " << endl;
+    cin>>b;
+    cout << "Insira a quantidade de espetinhos consumidos: " << endl;
+    cin>>c;
+
+
     return 0;
 }
